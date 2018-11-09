@@ -24,6 +24,12 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20181109115640.1" a="E"><vh>影片</vh>
+<v t="leo.20181109115649.1"><vh>影片內容</vh></v>
+</v>
+<v t="leo.20181109115731.1" a="E"><vh>影片</vh>
+<v t="leo.20181109115731.2"><vh>影片內容</vh></v>
+</v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -124,7 +130,7 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 40723140 個人網際簡報
 
 ### 虎科大機械設計工程系
 
@@ -326,5 +332,33 @@ make.start()
 
 						
 </t>
+<t tx="leo.20181109115640.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109115649.1">## week1
+
+### 說明如何利用 p37 中的 git 建立個人的 Github Pages 網站
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/ax2ZuPm3YXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20181109115731.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109115731.2">## wee4
+
+### 期中作業倉儲中 CMSimfly, Reveal, Pelican Blog 管理方法說明
+
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/nMU9bYx0vPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
